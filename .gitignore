@@ -111,4 +111,4 @@ dmypy.json
 
 # large data files
 data/athlete_events.csv
-
+data/kaggle*
