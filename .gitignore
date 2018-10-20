@@ -113,3 +113,15 @@ dmypy.json
 data/athlete_events.csv
 data/kaggle*
 data/*.bz2
+=======
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# large data files
+data/athlete_events.csv
+
+# solutions
+*_solution.ipynb
